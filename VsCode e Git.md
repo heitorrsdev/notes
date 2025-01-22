@@ -1,8 +1,8 @@
-VsCode e Git
+#####VsCode e Git
 
 Ctrl + / comenta a linha
 
-para iniciar um repositório:
+####para iniciar um repositório:
 nvm i && nvm use
 (dps da primeira inicialização, rode apenas "nvm use" neste passo)
 npm i
