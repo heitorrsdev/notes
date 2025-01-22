@@ -1,14 +1,14 @@
-#####VsCode e Git
+# **VsCode e Git**
 
 Ctrl + / comenta a linha
 
-####para iniciar um repositório:
+## **para iniciar um repositório:**
 nvm i && nvm use
 (dps da primeira inicialização, rode apenas "nvm use" neste passo)
 npm i
 npm run dev
 
-Para fazer commit/pull request:
+## **Para fazer commit/pull request:**
 npx git-cz
 git push origin {nome-branch}
 
@@ -18,5 +18,5 @@ Colocar o link do pr nos comentários do card
 Marcar devbox
 Mover o card para a próxima coluna no FluxControl
 
-Para executar:
+## **Para executar:**
 npm run dev
