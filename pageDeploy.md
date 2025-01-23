@@ -1,7 +1,7 @@
 # **Deploy das pages**
 
-## **Gravar um gif do site inteiro:**
+### **Gravar um gif do site inteiro:**
 Usar peek para isso
 
-## **Transformar este gif em uma tag HTMK no site:**
+### **Transformar este gif em uma tag HTMK no site:**
 https://celeborn-44c7b.firebaseapp.com/home
