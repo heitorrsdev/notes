@@ -7,8 +7,6 @@ nvm i && nvm use (dps da primeira inicialização, rode apenas "nvm use" neste p
 
 npm i
 
-npm run dev
-
 ## **Para fazer commit/pull request:**
 npx git-cz
 
