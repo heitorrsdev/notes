@@ -33,11 +33,13 @@ Undo last commit
 
 git stage .
 
-[procedimento padrão para fazer um novo commit]
+npx git-cz
+
+git push origin [nome-branch] -f
 
 #### Modo do Jorge:
 git stage .
 
 git commit --amend
 
-git push origin master [nome da master] -f
+git push origin master [nome-branch] -f
