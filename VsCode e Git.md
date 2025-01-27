@@ -26,3 +26,18 @@ Mover o card para a próxima coluna no FluxControl
 
 ## **Para executar:**
 npm run dev
+
+## **Para editar um commit:**
+#### Meu modo:
+Undo last commit
+
+git stage .
+
+[procedimento padrão para fazer um novo commit]
+
+#### Modo do Jorge:
+git stage .
+
+git commit --amend
+
+git push origin master [nome da master] -f
