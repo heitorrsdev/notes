@@ -8,6 +8,8 @@ nvm i && nvm use (dps da primeira inicialização, rode apenas "nvm use" neste p
 npm i
 
 ## **Para fazer commit/pull request:**
+git stage .
+
 npx git-cz
 
 git push origin {nome-branch}
